@@ -1,0 +1,7 @@
+*.pkl
+*.db
+*.dump
+backup
+sessions
+.idea
+__pychache__
