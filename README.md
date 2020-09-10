@@ -1,2 +1,2 @@
 # Instageek
-Insights into an Instagram account's connections
+Instagram insights for a given account
